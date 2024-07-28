@@ -7,7 +7,7 @@ import "./navbar.css";
 import { NavLink } from "react-router-dom";
 import { accordionActionsClasses } from "@mui/material";
 
-function Navbar2({searchanime,setsearchanime,getanimesearch,getsearch}) {
+function Navbar({searchanime,setsearchanime,getanimesearch,getsearch}) {
 
     const actionn=(e)=>{
         console.log(e);
