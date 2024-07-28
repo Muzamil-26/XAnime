@@ -42,7 +42,7 @@ function main({animedata,isloading}) {
    ):<>
    <div className="main-width-loader">
    <div className='loader'></div>
-   </div>
+ </div>
    </>
   }
    </div>
