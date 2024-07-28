@@ -1,0 +1,16 @@
+.image{
+    width: 50px;
+    border: 2px solid red;
+    border-radius:50% ;
+}
+.box-shawdow{
+    box-shadow: 0px 0px 9px 0px lightgray;
+    height: 110px;
+}
+.dropdown-item.active{
+    background-color: white;
+    color: black;
+}
+.dropdown-item.active:hover{
+    background-color: lightgray;
+}
